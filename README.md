@@ -8,5 +8,6 @@ TO DO:
 - Connect backend to newsletter sign-up form.
 - Update header font style.
 - Add social media links.
+- Potentially integrate bootstrap elements
 
 
