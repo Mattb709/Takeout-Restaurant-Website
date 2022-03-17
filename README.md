@@ -7,5 +7,6 @@ TO DO:
 - Connect backend to reservation form.
 - Connect backend to newsletter sign-up form.
 - Update header font style.
+- Add social media links.
 
 
